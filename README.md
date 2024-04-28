@@ -8,6 +8,7 @@ This is back-end API for a social network system. This serves as basis to search
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
 Prerequisites
+
 You should have your shell ready for downloading this project. We use gitbash as an example in this project
 
 Installation
