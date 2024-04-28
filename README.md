@@ -12,11 +12,13 @@ Prerequisites
 You should have your shell ready for downloading this project. We use gitbash as an example in this project
 
 Installation
+
 Get a free API Key at github
 
 Clone the repo
 
 git clone [(https://github.com/MohnishBhujun/Socia-Net-18/blob/main/README.md)](https://github.com/MohnishBhujun/Socia-Net-18/blob/main/README.md)
+
 Open the project using vs code.
 
 In your terminal, input npm start to start the server.
