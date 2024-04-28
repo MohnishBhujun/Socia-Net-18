@@ -16,7 +16,7 @@ Get a free API Key at github
 
 Clone the repo
 
-git clone https://github.com/Jason897571/Raccoon-Social-Network-API.git
+git clone [(https://github.com/MohnishBhujun/Socia-Net-18/blob/main/README.md)](https://github.com/MohnishBhujun/Socia-Net-18/blob/main/README.md)
 Open the project using vs code.
 
 In your terminal, input npm start to start the server.
