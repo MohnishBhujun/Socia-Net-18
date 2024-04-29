@@ -17,7 +17,7 @@ Get a free API Key at github
 
 Clone the repo
 
-git clone [(https://github.com/MohnishBhujun/Socia-Net-18/blob/main/README.md)](https://github.com/MohnishBhujun/Socia-Net-18/blob/main/README.md)
+git clone https://github.com/MohnishBhujun/Socia-Net-18
 
 Open the project using vs code.
 
